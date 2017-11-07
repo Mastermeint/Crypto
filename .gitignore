@@ -105,3 +105,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# vim
+*~
+
+#JSOn file containing API keys and API secrets
+secrets.json
